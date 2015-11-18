@@ -10,6 +10,8 @@ namespace TheGameOfLifeShow
     {
         static void Main(string[] args)
         {
+            var gameOfLife = new GameOfLiveConsole();
+
         }
     }
 }
